@@ -8,11 +8,13 @@ The goal for this analysis is to perform a comprehensive analysis of Walmart sal
 
 **Data Preview:**
 
-!(https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/896c78bc-f2f3-4cd6-ae58-b174f9904529/Untitled.png)
+<img width="669" alt="d1" src="https://github.com/user-attachments/assets/c5a0e1f8-a51c-482a-9760-44ffaeaa3e0f">
+
 
 ### Relationship between temperature and Weekly Sales
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/72e8eb9d-9449-4c5f-a61a-036992c6b3a5/Untitled.png)
+<img width="425" alt="d2" src="https://github.com/user-attachments/assets/32e04f8f-358e-49f4-a127-5bea4fe26e74">
+
 
 ### Are Sales Higher during high temperature?
 
@@ -24,7 +26,7 @@ Over the years, 2010, 2011 and early 2012, the trends of temperature and sales a
 
 ### Analyzing Sales during Holidays and Working Days
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/b1a1e458-87db-4962-8104-3df090e2c976/Untitled.png)
+<img width="682" alt="d3" src="https://github.com/user-attachments/assets/c6d00d7d-d5c2-4c5f-9537-509b0869631f">
 
 The Sales during the holidays - which happens every September, November and December, the sales are notably higher during those period too.
 
@@ -32,7 +34,8 @@ During Winter, as well during Holidays, the Sales are higher.
 
 ### Unemployment Vs Customer Purchase Index
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/dc632fa2-0221-42f8-9e28-77ad91378db2/Untitled.png)
+<img width="683" alt="d4" src="https://github.com/user-attachments/assets/b7bd8c60-d64e-410c-b69e-1483e27e5311">
+
 
 - **Negative Correlation**:
     - The plot shows a negative correlation between Unemployment and CPI. This means that as unemployment rates increase, CPI tends to decrease, and vice versa. The line drawn through the points suggests this trend.
@@ -44,7 +47,8 @@ During Winter, as well during Holidays, the Sales are higher.
 
 ### Fuel Prices Vs Sales
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/eaadba0b-e1ac-4ebb-b293-a50b38e845c2/Untitled.png)
+<img width="439" alt="d6" src="https://github.com/user-attachments/assets/4a972d1e-8374-468c-a10a-4a22d52ca224">
+
 
 It is noted that the sales are higher when the fuel prices is lower. This is during the winter months where there are holidays.
 
