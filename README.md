@@ -8,7 +8,7 @@ The goal for this analysis is to perform a comprehensive analysis of Walmart sal
 
 **Data Preview:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/896c78bc-f2f3-4cd6-ae58-b174f9904529/Untitled.png)
+!(https://prod-files-secure.s3.us-west-2.amazonaws.com/3bc051a8-c93c-4cfe-8e25-108c57664b62/896c78bc-f2f3-4cd6-ae58-b174f9904529/Untitled.png)
 
 ### Relationship between temperature and Weekly Sales
 
