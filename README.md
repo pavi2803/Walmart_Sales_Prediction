@@ -1,5 +1,7 @@
 # Walmart Sales Analysis
 
+Tableau Link : https://public.tableau.com/app/profile/pavithra.senthilkumar2369/vizzes
+
 Walmart Sales data below shows the weekly sales along with other metrics like temperature, CPI( Customer Purchase Index), Fuel Price and more.
 
 ### **Objective**
